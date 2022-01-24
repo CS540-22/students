@@ -1,0 +1,1 @@
+I am Vishal Aiely and I am a senior Computer Engineering major and part of the Cook Grand Challenge Honors program. I have taken CS340 (software engineering), and I am interested in learning more about software engineering and how it is used in the modern industry.
