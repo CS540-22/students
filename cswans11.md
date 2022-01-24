@@ -1,0 +1,1 @@
+My name is Colter Swanson and I am a senior Computer Science major. I am in the Cook Grand Challenge Honors program and took CS340 Software Engineering in Fall 2020. I took this class because I enjoy learning about the software design process and understand that this is the type of programing that I want to have practice with before getting into industry. 
