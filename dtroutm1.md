@@ -1,0 +1,1 @@
+My name is Daniel Troutman and I am a graduate student pursuing my masters. I've had a couple internships in software development and enjoyed working in a team environment. I am hoping to get more language experience and look forward to builing tools and projects.
