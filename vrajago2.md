@@ -1,0 +1,2 @@
+# Introduction
+My name is Vijay Rajagopal, and I am a Masters Computer Science student working under Dr. Mongi A. Abidi. My work focuses on computer vision applications and real-time applications on low-power embedded devices. I've taken CS340 with Dr. Mockus before, and I hope I can apply those skills as well as machine learning from my research in a much broader project. 
