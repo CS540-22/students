@@ -1,0 +1,1 @@
+My name is Mahmoud Jahanshahi. I'm a first year PhD student. I've been in digital archeology class last semester. I'm looking forward to get more familiar with software engineering considering my different background. This is a mandatory course for me by the way.
