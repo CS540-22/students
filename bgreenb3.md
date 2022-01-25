@@ -1,0 +1,2 @@
+My name is Benjamin Greenberg, and I am a GRA at the National Institute for Computational Sciences department. I am a graduate student in the last semester of my masters degree, and I am primarily taking this class to build some sort of project before graduating. 
+I'm experienced in Python, C/C++, and Flutter development, but I'm also open to learning other languages/frameworks as needed. I would prefer to build a cross-platform app in a framework such as Flutter, but I don't have any hard preferences for what project I work on in this class.
