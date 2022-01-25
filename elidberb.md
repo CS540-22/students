@@ -1,0 +1,1 @@
+Hello, I am Elijah Berberette, and I am a second-semester senior in computer engineering. I am taking this course as an undergraduate student for the 5-year BS/MS program. My interests are social media marketing and I would enjoy a project that involves AI/ML.
