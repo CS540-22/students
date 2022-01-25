@@ -1,0 +1,1 @@
+I am Braxton Haynie, and I am a senior in computer engineering here at UTK. I am interested in coding, and I am taking this course to learn more about how to develop software in a more efficient manner. I have not had the chance to take CS340.
