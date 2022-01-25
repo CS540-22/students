@@ -1,0 +1,7 @@
+I am Walter Squires and I am a first year Computer Science PhD student in Dr. Doowon Kim's lab. My current research involves analyzing signed malware in order to
+learn more about how it is coming to be signed by the bad actors creating it, as well as looking for similarites in how the certificates are constructed.
+
+Ideally, I would like to have my project for this class relate to security in some way, but be on a different topic than my current research. I would potentially 
+be interested in looking into steganography as it is a topic I read about in a paper recently that had me excited to learn about more applications. Alternatively, I
+would like to be able to explore non-crypto based applications of Blockchain technology. A potential idea could be using the immutable ledger blockchain provides
+as a means of recording academic records such that official transcripts would no longer need be required to be provided by the institution in paper as they are now; upon confering a degree (and with the recipient's permission in the event that they do not want their records to be public knowledge), the institution could update the blockchain. If the system only allowed for known institutions (such as by signing the block with a private key) to add to the blockchain, the resulting system would allow any party that needed access to the records to access them and be assured that they had not been tampered with. 
