@@ -1,0 +1,1 @@
+I am Isaac Sikkema, a Masters student graduating at the end of this semester. I am primarily a software developer who has worked at places like ORNL, Vrbo, and Expedia. Overall, I have a combined 4 years of professional software development experience.
