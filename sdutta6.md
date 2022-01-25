@@ -1,0 +1,1 @@
+Hi I am Senjuti Dutta, a 2 nd year PhD student in the Computer Science Department. My research interests lie in the area of HCI, crowdsourcing and ML. For the project I would like to work on the backend side , a tool where I can use crowdsourcing will be very interesting to me. I have taken software enginnering before in my Masters. 
