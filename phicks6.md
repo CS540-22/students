@@ -1,0 +1,1 @@
+Hi, I'm Philip Hicks. I'm a masters student on my last semester. I'm very fimilar with both C and Python and would enjoy implementing machine learning into some project. I also wouldn't mind doing work on the GUI of a project.
